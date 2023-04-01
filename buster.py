@@ -1,5 +1,6 @@
 # 面码acg每日签到
 import requests,json
+from lxml import etree
 
 # 企业微信推送
 corpid = ""
